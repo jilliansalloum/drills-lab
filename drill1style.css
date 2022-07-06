@@ -1,0 +1,22 @@
+html{
+    background-color: #d0d0d0;
+}
+header {
+
+  background-color: #444;
+  height: 15vh;
+}
+
+main {
+    background-color: #ffff;
+    height: 75vh;
+    width: 65vw;
+    margin: auto;
+}
+
+footer {
+    background-color: #222222 ;
+    height: 10vh;
+    width: 65vw;
+    margin: auto;
+}
